@@ -1,0 +1,10 @@
+C:\Desenv\WebApp\Web\bin\Web.dll.config
+C:\Desenv\WebApp\Web\bin\Web.dll
+C:\Desenv\WebApp\Web\bin\Web.pdb
+C:\Desenv\WebApp\Web\bin\Sergio.DataAccess.dll
+C:\Desenv\WebApp\Web\bin\Sergio.DomainModel.dll
+C:\Desenv\WebApp\Web\bin\Sergio.DataAccess.pdb
+C:\Desenv\WebApp\Web\bin\Sergio.DomainModel.pdb
+C:\Desenv\WebApp\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Desenv\WebApp\Web\obj\Debug\Web.dll
+C:\Desenv\WebApp\Web\obj\Debug\Web.pdb

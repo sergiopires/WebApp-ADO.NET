@@ -1,0 +1,6 @@
+C:\Desenv\WebApp\WebApp\bin\WebApp.dll.config
+C:\Desenv\WebApp\WebApp\bin\WebApp.dll
+C:\Desenv\WebApp\WebApp\bin\WebApp.pdb
+C:\Desenv\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Desenv\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Desenv\WebApp\WebApp\obj\Debug\WebApp.pdb
