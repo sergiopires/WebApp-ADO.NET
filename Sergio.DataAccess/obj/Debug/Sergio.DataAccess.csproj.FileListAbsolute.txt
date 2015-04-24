@@ -1,7 +1,0 @@
-C:\Desenv\WebApp\Sergio.DataAccess\bin\Debug\Sergio.DataAccess.dll
-C:\Desenv\WebApp\Sergio.DataAccess\bin\Debug\Sergio.DataAccess.pdb
-C:\Desenv\WebApp\Sergio.DataAccess\bin\Debug\Sergio.DomainModel.dll
-C:\Desenv\WebApp\Sergio.DataAccess\bin\Debug\Sergio.DomainModel.pdb
-C:\Desenv\WebApp\Sergio.DataAccess\obj\Debug\Sergio.DataAccess.csprojResolveAssemblyReference.cache
-C:\Desenv\WebApp\Sergio.DataAccess\obj\Debug\Sergio.DataAccess.dll
-C:\Desenv\WebApp\Sergio.DataAccess\obj\Debug\Sergio.DataAccess.pdb
